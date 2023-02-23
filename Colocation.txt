@@ -1,0 +1,29 @@
+Colocation Service
+A colocation (colo) is a data center facility in which a business can rent space for servers and other
+computing hardware. Typically, a colo provides the building, cooling, power, bandwidth and physical
+security while the customer provides servers and storage.
+
+BSCCL has started Colocation services besides its main IPLC and IP Transit services with buiding world
+class Data Center. Currently BSCCL provides Colocation services from below location:
+
+1. Dhaka, IIG Data Center, 191/B, Gulshan-Tejgoan Link Road, Dhaka
+2. Cox's Bazar, SEA-ME-WE-4 Landing Station, Jhilonga, Cox's Bazar
+3. Kuakata, SEA-ME-WE-5 Cable Landing Station, Kuakata, Patuakhali
+
+Feature of Data Center
+
+--> CCTV integrated with access control and alarm system.
+
+--> 24x7x365 onsite security & user friendly monitoring system
+
+--> Very early Smoke Detection system
+
+--> Fire fighiting system
+
+--> Redundant and precise Cooling system
+
+--> High availability Power system
+
+--> Two standby generators besides main PDB Line
+
+--> Ensure N+1 redundancy in Cooling, Power system

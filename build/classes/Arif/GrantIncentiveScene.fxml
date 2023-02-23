@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/18">
+   <children>
+      <Label layoutX="117.0" layoutY="125.0" text="Employee Name" />
+      <Label layoutX="117.0" layoutY="165.0" text="Employee Id" />
+      <Label layoutX="117.0" layoutY="209.0" text="Enter Incentive Amount" />
+      <Button layoutX="309.0" layoutY="270.0" mnemonicParsing="false" text="Grant" />
+      <TextField layoutX="265.0" layoutY="121.0" />
+      <TextField layoutX="265.0" layoutY="161.0" />
+      <TextField layoutX="265.0" layoutY="205.0" />
+      <Separator layoutX="4.0" layoutY="38.0" prefHeight="25.0" prefWidth="594.0" />
+      <Label layoutX="23.0" layoutY="21.0" text="Incentive" underline="true">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

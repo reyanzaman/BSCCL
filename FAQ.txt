@@ -1,0 +1,55 @@
+Q 1. What sort of Services does your Company provide?
+
+The basic job of Bangladesh Submarine Cable Company Ltd. (BSCCL) is to provide bandwidth to the
+relevant telecom companies and also to the corporate users who need International private lease circuits
+(IPLC) and IP Transit to IIG and ISP. The bandwidth is distributed on a first come first serve basis without
+any discriminations.
+
+Q 2. Who are your clients?
+
+Basically our clients are those Telcos who use substantial amount of bandwidth. As for example;
+BTCL
+Level3 Carrier Limited
+Summit Communications Limited
+Maxnet Limited
+BdHub Limited
+Bangla Track
+NovoTel Limited
+Mir Telecom Limited
+Mango Teleservices Limited etc
+ie, all IGWs, IIGs, ISPs, corporate users like SITA, Embassies, Standard Chartered Bank, American
+Express Bank etc.
+
+Q 3. How your organization is related with other operators like ICX, IGW, IIG, Mobile operators,
+BTCL and PSTN operators?
+
+After connectivity of Bangladesh with Submarine Cable System, basically all telecom operators whose
+subscribers are making calls outside Bangladesh or getting connected to internet and chatting with some
+friends outside Bangladesh are directly or indirectly using Submarine Cable. Thus, all those who are
+providing such international connectivity or helping indirectly (like ICX) to establish such outside
+communications are related to BSCCL.
+
+Q 4. I have a business proposal, whom should I contact?
+
+If your business is a telecom business where you need substantial amount of bandwidth, you may
+contact us through our website www.bsccl.com.bd/where our contract numbers are available. But the
+first thing you have to do is to obtain a license from the Regulatory Authority (BTRC) for any type of
+Telecom business.
+
+Q 5. Tele-medicine, video on demand, distant learning for these new arenas, how does your
+organization provide service?
+
+All these services you have mentioned above require high quality & uninterrupted broadband
+connectivity. For a video with very good resolutions and sounds you need at least 5 Mbps bandwidth.
+By providing high quality & uninterrupted broadband for Bangladesh & Tripura =BSCCL allows the end
+users to enjoy the above stated services.
+
+Q 6. Do you connect ISPs and call centres?
+
+In fact we are the whole seller of bandwidth and thus we do not sell or provide small bandwidth
+less than E1 (2 Mbps) to ISPs or call centres.
+
+Q 7. Does someone get discount for larger bandwidth?
+
+The approved rate stipulates discounts for higher bandwidth with a lower multiplication factor.
+Moreover, special discounts are available for internet service providers and Educational Institutions

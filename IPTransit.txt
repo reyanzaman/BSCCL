@@ -1,0 +1,32 @@
+BSCCL has started its journey to provide IP Transit connectivity since 8th July, 2013. To uphold Broadband
+expansion policy of the Government of Bangladesh and to facilitate the drive towards building a
+Digital Bangladesh, BSCCL is offering the best price package for its IP Bandwidth customers to promote
+the use of quality bandwidth for Internet.BSCCL IP Transit service runs over connected with worldwide
+Tier-1 Internet Service Providers, NTT Communications, Telecom Italia of Sparkle at Singapore and
+Telecom Italia of Sparkle, Cogent at France Marseille. BSCCL's Autonomous System AS132602 has direct
+connectivity to more than 200 AS (Autonomous System) networks around the world and over 100 Gbps
+internetworking capacity.
+
+Customer will be highly impressed with the simplicity of the product and sales process as well as fast
+provisioning of the service. Our professional customer support team will make your life easy and ensure
+that your service lives by our SLA - our commitment to outstanding performance and sustained reliability.
+
+Product Features
+
+--> Full redundancy: BSCCL provides IP Transit services with full redundancy with upstreams carrier,
+submarine cable systesms and backhaul connectivity.
+
+--> Full SLA: our SLA guarantees 100% global network availability, 99.9% packet delivery and proactive
+outage notification within 15 minutes.
+
+--> Rapid Installation: Your service will be installed in 24 hours after providing the installation and MRC fee.
+
+--> Customer Support: Technical expertise is just a phone call away 24 hours a day, 7 days a week,
+365 days a year.
+
+--> No Long Term Commitment: You can stay with us as long as you like, but we don't require multi-year
+commitments as part of our great prices.
+
+The new price package has been approved by the Board of Directors of BSCCL and has come into effect
+from February 1, 2018. All IIGs, ISPs (From Dhaka, Chittagong, Cox’s Bazar location) are advised to take
+advantages of the best tariff from BSCCL.

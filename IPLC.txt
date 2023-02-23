@@ -1,0 +1,16 @@
+BSCCL is the root service provider of submarine cable bandwidth and handles country’s submarine cables.
+BSCCL has SEA-WE-ME-4 Cable Landing Station located at Jhilongja, Cox’s Bazar and SEA-WE-ME-5 Cable
+Landing Station at Kuakata, Patuakhali from where Backhaul Service Providers are connected.
+Clients can connect their fiber optic cable for IPLC (International Private Leased Circuits) service from
+co-location centers (Presently at Chittagong, Mohakhali, Dhaka and Moghbazar, Dhaka) of Backhaul Service
+Provider. Moreover, with a view to provide multiple options for backhaul connectivity, a co-location centre
+has been established in Cox's bazar and Kuakata landing station. BSCCL's valued clients can choose their
+backhaul providers who could directly connect their fibers at the co-location centers of BSCCL. Presently,
+BSCCL is providing the IPLC services to the following types of customers;
+
+Service for different routes and different levels such as STM-1, STM-4, STM-16, STM-64/10G to the
+International Internet Gateway (IIG) companies through International Private Leased Circuits (IPLC).
+Service for different routes and different levels such as STM-1, STM-4, STM-16 to the International (Voice)
+Gateway (IGW) companies.
+IPLC services to any other corporate users as per the approval of Bangladesh Telecommunication
+Regulatory Commission (BTRC).

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="javafxapplication2_practice.EngineerMainMenuSceneController">
+   <top>
+      <MenuBar BorderPane.alignment="CENTER">
+        <menus>
+          <Menu mnemonicParsing="false" text="Engineer dashboard">
+            <items>
+              <MenuItem mnemonicParsing="false" text="Close" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+   </top>
+   <left>
+      <AnchorPane prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button layoutX="34.0" layoutY="28.0" mnemonicParsing="false" onAction="#checkCableOnClick" prefHeight="26.0" prefWidth="183.0" text="Check cable condition" />
+            <Button layoutX="32.0" layoutY="83.0" mnemonicParsing="false" onAction="#applyEarlyWageOnClick" prefHeight="26.0" prefWidth="184.0" text="Apply for early wage" />
+            <Button layoutX="35.0" layoutY="136.0" mnemonicParsing="false" onAction="#reportEquipmentOnClick" prefHeight="26.0" prefWidth="182.0" text="Report faulty equipment" />
+            <Button layoutX="35.0" layoutY="187.0" mnemonicParsing="false" onAction="#requestEquipmentOnClick" prefHeight="26.0" prefWidth="181.0" text="Request new equipment" />
+            <Button layoutX="35.0" layoutY="243.0" mnemonicParsing="false" onAction="#applyLeaveOnClick" prefHeight="26.0" prefWidth="182.0" text="Apply for leave" />
+            <Button layoutX="35.0" layoutY="301.0" mnemonicParsing="false" onAction="#assignTaskOnClick" prefHeight="26.0" prefWidth="182.0" text="Assign task " />
+         </children>
+      </AnchorPane>
+   </left>
+   <right>
+      <AnchorPane prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button layoutX="74.0" layoutY="37.0" mnemonicParsing="false" onAction="#logOutOnClick" text="Log Out" />
+         </children>
+      </AnchorPane>
+   </right>
+</BorderPane>

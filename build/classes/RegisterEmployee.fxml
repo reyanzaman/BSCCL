@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="RegisterEmployeeController">
+   <top>
+      <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="354.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label layoutX="109.0" layoutY="21.0" text="Employee Registration">
+               <font>
+                  <Font name="System Bold" size="36.0" />
+               </font>
+            </Label>
+            <Label layoutX="108.0" layoutY="142.0" text="Designation:" textFill="#484848">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="108.0" layoutY="182.0" text="Department:" textFill="#484848">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Button layoutX="210.0" layoutY="268.0" mnemonicParsing="false" onAction="#goToLoginButtonOnClick" prefHeight="37.0" prefWidth="180.0" text="Register" />
+            <ComboBox fx:id="desigField" layoutX="246.0" layoutY="140.0" prefHeight="26.0" prefWidth="246.0" />
+            <ComboBox fx:id="deptField" layoutX="246.0" layoutY="179.0" prefHeight="26.0" prefWidth="246.0" />
+         </children>
+      </AnchorPane>
+   </top>
+   <bottom>
+      <AnchorPane prefHeight="36.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button mnemonicParsing="false" onAction="#goToRegistrationButtonOnClick" prefHeight="35.0" prefWidth="600.0" style="-fx-background-color: #F0E68C; -fx-border-color: grey;" text="Go Back" />
+         </children>
+      </AnchorPane>
+   </bottom>
+</BorderPane>
